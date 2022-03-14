@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 20px;
+    margin: 0px;
+    width: 100%;
+}
+
+#start_button, #status, #finding_status{
+    font-size: 17px;
+}
+
+#indicator{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#idk{
+    width: 50%;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+#status, #finding_status{
+    margin-bottom: 500px;
+}
